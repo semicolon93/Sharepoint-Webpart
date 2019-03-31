@@ -1,4 +1,4 @@
-## helloworld-webpart
+## SharePoint webpart
 
 This web part allows to list out all the list present in a SharePoint site
 It greets the user and also allows user to edit certain parts of the web part making it more user interactive
